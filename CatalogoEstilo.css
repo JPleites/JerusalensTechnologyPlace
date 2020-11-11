@@ -1,0 +1,22 @@
+*{
+	font-family: Arial;
+	background-color: #FAD2FB;
+}
+caption{
+	font-size: 50px;
+	color: blue;
+}
+big{
+	color: #110E5D;
+}
+.tel img{
+	height: 200px;
+}
+.banner{
+    margin: auto;
+    width: 99%;
+    height: 300px;
+    max-width: 2500px;
+}
+@media screen and (max-width:1100px){
+}
